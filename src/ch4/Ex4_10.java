@@ -10,6 +10,7 @@ public class Ex4_10 {
 				System.out.println(i+"*"+j+"="+(i*j));
 			}
 			System.out.println();
+			System.out.println("haha");
 		}
 	}
 
